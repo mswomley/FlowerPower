@@ -1,0 +1,23 @@
+body {
+    background-color:rgb(244, 218, 238);
+  }
+  
+
+.button1 {
+    color: rgb(30, 2, 45);
+    background-color:  rgb(203, 158, 235);
+    border-radius: 4px;
+    border: white;
+    padding: 20px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.button2 {
+    background-color:  rgb(203, 158, 235);
+    font-size: 20px;
+    border-radius: 4px;
+    border: white;
+    padding: 20px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
